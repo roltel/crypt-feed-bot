@@ -48,16 +48,16 @@ feeds:
       url: https://futuragora.pt/feed/
       period: 0.2
  '#macanudos':
-    Cointelegraph:
-      url: https://cointelegraph.com/rss
+    futuragora:
+      url: https://futuragora.pt/feed
       period: 1
       style:
         name:
           bg: red
           fg: white
           bold: false
-    pt-Cryptofcafe:
-      url: https://www.cryptocafe.pt/feed/podcast
+    macanudos:
+      url: https://macanudos.org/feed
       period: 0.2
       style:
         name:
