@@ -17,7 +17,7 @@ feeds:
         name:
           bg: red
           fg: white
-          bold: true
+          bold: false
     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
