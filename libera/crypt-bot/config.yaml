@@ -13,4 +13,16 @@ feeds:
     Cointelegraph:
       url: https://cointelegraph.com/rss
       period: 0.2
+    Newsbtc:
+      url: https://www.newsbtc.com/feed
+      period: 0.2
+    FinanceMagnates:
+      url: https://www.financemagnates.com/cryptocurrency/feed/
+      period: 0.2
+    Unchained:
+      url: https://unchainedpodcast.com/category/unconfirmed/feed/
+      period: 0.2
+    TheMoon:
+      url: https://medium.com/feed/the-moon
+      period: 0.2
       
