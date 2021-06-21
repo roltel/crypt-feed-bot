@@ -1,1 +1,16 @@
-
+host: irc.libera.chat
+ssl_port: 6697
+nick: CryptBot
+alerts_channel: '##feeds-alerts'
+admin: A1R!reset@user/a1r
+mode: +igR
+# log:
+#   irc: true
+defaults:
+  shorten: false
+feeds:
+  '#crypto-feed':
+    Cointelegraph:
+      url: https://cointelegraph.com/rss
+      period: 0.2
+      
