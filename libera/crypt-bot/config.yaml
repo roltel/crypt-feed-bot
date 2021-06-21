@@ -13,6 +13,11 @@ feeds:
     Cointelegraph:
       url: https://cointelegraph.com/rss
       period: 1
+      style:
+        name:
+          bg: red
+          fg: white
+          bold: true
     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
