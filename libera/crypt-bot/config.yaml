@@ -17,9 +17,8 @@ feeds:
     futuragora.pt:
       url: https://futuragora.pt/feed
       period: 0.2
-      shorten: false
-      
-  '#crypto-feed':
+     shorten: false
+ '#crypto-feed':
     Cointelegraph:
       url: https://cointelegraph.com/rss
       period: 1
