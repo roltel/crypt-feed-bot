@@ -9,6 +9,16 @@ mode: +igR
 defaults:
   shorten: false
 feeds:
+"#macanudos":
+    macanudos.org:
+      url: https://macanudos.org/feed
+      period: 0.2
+      shorten: false
+    futuragora.pt:
+      url: https://futuragora.pt/feed
+      period: 0.2
+      shorten: false
+      
   '#crypto-feed':
     Cointelegraph:
       url: https://cointelegraph.com/rss
