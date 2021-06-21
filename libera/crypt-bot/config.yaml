@@ -18,7 +18,7 @@ feeds:
           bg: red
           fg: white
           bold: false
-    Cryptofcafe:
+    pt-Cryptofcafe:
       url: https://www.cryptocafe.pt/feed/podcast
       period: 0.2
       style:
@@ -44,7 +44,7 @@ feeds:
     Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
       period: 0.2
-    Futuragora:
+    pt-Futuragora:
       url: https://futuragora.pt/feed/
       period: 0.2
       
