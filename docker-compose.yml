@@ -14,5 +14,3 @@ services:
       TZ: Europe/Lisbon
     env_file:
       - ./libera/secrets.env
-      - ./libera/crypt-bot/tokens.env
-  
