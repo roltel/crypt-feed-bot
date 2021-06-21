@@ -9,7 +9,7 @@ mode: +igR
 defaults:
   shorten: false
 feeds:
-'#macanudos':
+ '#macanudos':
     macanudos.org:
       url: https://macanudos.org/feed
       period: 0.2
