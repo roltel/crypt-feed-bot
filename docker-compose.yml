@@ -9,10 +9,10 @@ services:
         max-size: 2m
         max-file: "5"
     volumes:
-      - ./libera/feed-bot:/config
+      - ./libera/crypt-bot:/config
     environment:
       TZ: America/New_York
     env_file:
       - ./libera/secrets.env
-      - ./libera/feed-bot/tokens.env
+      - ./libera/crypt-bot/tokens.env
   
