@@ -10,11 +10,23 @@ defaults:
   shorten: false
 feeds:
  '#crypto-feed':
+     BitflyerEurope:
+      url: https://blog-eu.bitflyer.com/rss/
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey
      Bitcoin News:
       url:  https://news.bitcoin.com/feed/
       period: 0.2
       style:
         name:
+          bg: orange
+          fg: grey
+      Beincrypto:
+      url: https://beincrypto.com/feed
+      period: 0.2
+         name:
           bg: orange
           fg: grey
      Cointelegraph:
@@ -38,6 +50,12 @@ feeds:
         name:
           bg: orange
           fg: grey
+      Coinbase:
+      url: https://blog.coinbase.com/feed
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey    
      Cryptodaily:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
@@ -52,11 +70,29 @@ feeds:
         name:
           bg: grey
           fg: orange
+      Decrypt:
+      url: https://decrypt.co/feed
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey 
+      eToro:
+      url: https://www.etoro.com/blog/feed/
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey
      FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
       style:
         name:
+          bg: orange
+          fg: grey
+      Kraken:
+      url: https://beincrypto.com/feed
+      period: 0.2
+         name:
           bg: orange
           fg: grey
      Newsbtc:
@@ -66,6 +102,12 @@ feeds:
         name:
           bg: orange
           fg: grey
+      Paxfull:
+      url: https://paxful.com/blog
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey     
      TheCapital:
       url: https://thecapital.io/assets/feed/news.xml
       period: 0.2
@@ -73,6 +115,12 @@ feeds:
         name:
           bg: orange
           fg: gray
+      TheMarketsCompass:
+      url: https://themarketscompass.substack.com/feed
+      period: 0.2
+         name:
+          bg: orange
+          fg: grey   
     TheMoon:
       url: https://medium.com/feed/the-moon
       period: 0.2
