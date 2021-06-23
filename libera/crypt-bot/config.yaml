@@ -24,7 +24,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-      Beincrypto:
+     Beincrypto:
       url: https://beincrypto.com/feed
       period: 0.2
       style:
@@ -52,7 +52,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-      Coinbase:
+     Coinbase:
       url: https://blog.coinbase.com/feed
       period: 0.2
       style:
@@ -73,14 +73,14 @@ feeds:
         name:
           bg: grey
           fg: orange
-      Decrypt:
+     Decrypt:
       url: https://decrypt.co/feed
       period: 0.2
       style:
          name:
           bg: orange
           fg: grey 
-      eToro:
+     eToro:
       url: https://www.etoro.com/blog/feed/
       period: 0.2
       style:
@@ -94,7 +94,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-      Kraken:
+     Kraken:
       url: https://beincrypto.com/feed
       period: 0.2
       style:
@@ -108,7 +108,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-      Paxfull:
+     Paxfull:
       url: https://paxful.com/blog
       period: 0.2
       style:
@@ -122,14 +122,14 @@ feeds:
         name:
           bg: orange
           fg: gray
-      TheMarketsCompass:
+     TheMarketsCompass:
       url: https://themarketscompass.substack.com/feed
       period: 0.2
       style:
          name:
           bg: orange
           fg: grey   
-    TheMoon:
+     TheMoon:
       url: https://medium.com/feed/the-moon
       period: 0.2
       style:
