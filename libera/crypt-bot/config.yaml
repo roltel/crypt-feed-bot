@@ -13,7 +13,8 @@ feeds:
      BitflyerEurope:
       url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
-         name:
+      style:
+        name:
           bg: orange
           fg: grey
      Bitcoin News:
