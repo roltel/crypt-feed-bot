@@ -165,7 +165,7 @@ feeds:
         name:
           bg: white
           fg: orange
-  '#monero-pt':
+ '#monero-pt':
     pt-Cryptofcafe:
       url: https://www.cryptocafe.pt/feed/podcast
       period: 0.2
