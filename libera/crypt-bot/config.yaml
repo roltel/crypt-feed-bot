@@ -10,7 +10,7 @@ defaults:
   shorten: false
 feeds:
  '#crypto-feed':
-      Bitcoin News:
+     Bitcoin News:
       url:  https://news.bitcoin.com/feed/
       period: 0.2
       style:
@@ -38,28 +38,28 @@ feeds:
         name:
           bg: orange
           fg: grey
-    Cryptodaily:
+     Cryptodaily:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: grey
-    Cryptomining:
+     Cryptomining:
       url: http://cryptomining-blog.com/feed/
       period: 0.2
       style:
         name:
           bg: grey
           fg: orange
-    FinanceMagnates:
+     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: grey
-    Newsbtc:
+     Newsbtc:
       url: https://www.newsbtc.com/feed
       period: 0.2
       style:
@@ -87,7 +87,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-    Unchained:
+     Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
       period: 0.2
  '#macanudos':
