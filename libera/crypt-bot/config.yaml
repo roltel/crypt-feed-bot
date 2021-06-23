@@ -15,35 +15,41 @@ feeds:
       period: 0.2
       style:
         name:
-          bg: brown
-          fg: white
-    pt-Cryptofcafe:
-      url: https://www.cryptocafe.pt/feed/podcast
-      period: 0.2
-      style:
-        name:
-          bg: white
-          fg: orange
+          bg: gray
+          fg: yellow
     Cryptodaily:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
     Cryptomining:
       url: http://cryptomining-blog.com/feed/
       period: 0.2
+      style:
+        name:
+          bg: white
+          fg: orange
     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
+      style:
+        name:
+          bg: blue
+          fg: yellow
     Newsbtc:
       url: https://www.newsbtc.com/feed
       period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: grey
     TheMoon:
       url: https://medium.com/feed/the-moon
       period: 0.2
+      style:
+        name:
+          bg: greed
+          fg: black
     Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
-      period: 0.2
-    pt-Futuragora:
-      url: https://futuragora.pt/feed/
       period: 0.2
  '#macanudos':
     futuragora:
@@ -55,6 +61,14 @@ feeds:
           fg: white
     macanudos:
       url: https://macanudos.org/feed
+      period: 0.2
+      style:
+        name:
+          bg: white
+          fg: orange
+  '#monero-pt':
+    pt-Cryptofcafe:
+      url: https://www.cryptocafe.pt/feed/podcast
       period: 0.2
       style:
         name:
