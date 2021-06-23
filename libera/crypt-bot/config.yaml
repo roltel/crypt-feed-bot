@@ -27,6 +27,7 @@ feeds:
       Beincrypto:
       url: https://beincrypto.com/feed
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey
@@ -54,6 +55,7 @@ feeds:
       Coinbase:
       url: https://blog.coinbase.com/feed
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey    
@@ -74,12 +76,14 @@ feeds:
       Decrypt:
       url: https://decrypt.co/feed
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey 
       eToro:
       url: https://www.etoro.com/blog/feed/
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey
@@ -93,6 +97,7 @@ feeds:
       Kraken:
       url: https://beincrypto.com/feed
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey
@@ -106,6 +111,7 @@ feeds:
       Paxfull:
       url: https://paxful.com/blog
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey     
@@ -119,6 +125,7 @@ feeds:
       TheMarketsCompass:
       url: https://themarketscompass.substack.com/feed
       period: 0.2
+      style:
          name:
           bg: orange
           fg: grey   
@@ -139,6 +146,10 @@ feeds:
      Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
       period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: grey
  '#macanudos':
     futuragora:
       url: https://futuragora.pt/feed
