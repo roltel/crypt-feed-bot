@@ -10,7 +10,6 @@ defaults:
   shorten: false
 feeds:
  '#crypto-feed':
-https://www.cryptoninjas.net/feed/
       Bitcoin News:
       url:  https://news.bitcoin.com/feed/
       period: 0.2
