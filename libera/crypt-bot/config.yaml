@@ -17,49 +17,49 @@ https://www.cryptoninjas.net/feed/
       style:
         name:
           bg: orange
-          fg: gray
+          fg: grey
      Cointelegraph:
       url: https://cointelegraph.com/rss
       period: 0.2
       style:
         name:
           bg: orange
-          fg: gray
+          fg: grey
      Cryptoninjas:
       url: https://www.cryptoninjas.net/feed/
       period: 0.2
       style:
         name:
           bg: orange
-          fg: gray
+          fg: grey
      Coindesk:
       url: https://cointelegraph.com/rss
       period: 0.2
       style:
         name:
           bg: orange
-          fg: gray
+          fg: grey
     Cryptodaily:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
       style:
         name:
           bg: orange
-          fg: gray
+          fg: grey
     Cryptomining:
       url: http://cryptomining-blog.com/feed/
       period: 0.2
       style:
         name:
-          bg: white
+          bg: grey
           fg: orange
     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
       style:
         name:
-          bg: blue
-          fg: yellow
+          bg: orange
+          fg: grey
     Newsbtc:
       url: https://www.newsbtc.com/feed
       period: 0.2
@@ -79,15 +79,15 @@ https://www.cryptoninjas.net/feed/
       period: 0.2
       style:
         name:
-          bg: greed
-          fg: black
+          bg: orange
+          fg: grey
      TheBullish:
       url: https://medium.com/feed/the-bullish
       period: 0.2
       style:
         name:
-          bg: greed
-          fg: black
+          bg: orange
+          fg: grey
     Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
       period: 0.2
