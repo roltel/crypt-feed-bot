@@ -87,13 +87,6 @@ feeds:
         name:
           bg: orange
           fg: grey
-     Kraken:
-      url: https://beincrypto.com/feed
-      period: 0.2
-      style:
-         name:
-          bg: orange
-          fg: grey
      Newsbtc:
       url: https://www.newsbtc.com/feed
       period: 0.2
