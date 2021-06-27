@@ -10,6 +10,13 @@ defaults:
   shorten: false
 feeds:
  '#crypto-feed':
+      Ambcrypto:
+      url: https://ambcrypto.com/feed
+      period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: grey
      BitflyerEurope:
       url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
@@ -124,6 +131,13 @@ feeds:
           fg: grey
      Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
+      period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: grey
+     Unchained:
+      url: https://zycrypto.com/feed
       period: 0.2
       style:
         name:
