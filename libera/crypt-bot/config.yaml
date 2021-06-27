@@ -93,14 +93,7 @@ feeds:
       style:
         name:
           bg: orange
-          fg: grey
-     Paxfull:
-      url: https://paxful.com/blog
-      period: 0.2
-      style:
-         name:
-          bg: orange
-          fg: grey     
+          fg: grey    
      TheCapital:
       url: https://thecapital.io/assets/feed/news.xml
       period: 0.2
