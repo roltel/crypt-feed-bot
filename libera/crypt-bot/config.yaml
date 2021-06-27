@@ -10,7 +10,7 @@ defaults:
   shorten: false
 feeds:
  '#crypto-feed':
-      Ambcrypto:
+     Ambcrypto:
       url: https://ambcrypto.com/feed
       period: 0.2
       style:
@@ -136,7 +136,7 @@ feeds:
         name:
           bg: orange
           fg: grey
-     Unchained:
+     Zycrypto:
       url: https://zycrypto.com/feed
       period: 0.2
       style:
