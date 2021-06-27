@@ -2,7 +2,7 @@ version: '3.7'
 services:
   irc-libera-crypt-bot:
     container_name: irc-libera-crypt-bot
-    image: ascensive/irc-rss-feed-bot:latest
+    image: ascensive/irc-rss-feed-bot:0.11.4
     restart: always
     logging:
       options:
