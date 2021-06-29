@@ -18,7 +18,7 @@ feeds:
           bg: orange
           fg: white
      BitflyerEurope:
-      url: https://blog-eu.bitflyer.com/rss/
+      url: https://blog-eu.bitflyer.com/rss/ https://dailyhodl.com/feed
       period: 0.2
       style:
         name:
@@ -73,6 +73,13 @@ feeds:
         name:
           bg: orange
           fg: white
+     Cryptoslate:
+      url: https://cryptoslate.com/feed
+      period: 0.2
+      style:
+        name:
+          bg: black
+          fg: green
      Decrypt:
       url: https://decrypt.co/feed
       period: 0.2
@@ -80,6 +87,13 @@ feeds:
          name:
           bg: orange
           fg: white 
+     Dailyhodl:
+      url: https://dailyhodl.com/feed
+      period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: white
      eToro:
       url: https://www.etoro.com/blog/feed/
       period: 0.2
