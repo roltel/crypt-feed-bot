@@ -18,7 +18,7 @@ feeds:
           bg: orange
           fg: white
      BitflyerEurope:
-      url: https://blog-eu.bitflyer.com/rss/ https://dailyhodl.com/feed
+      url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
       style:
         name:
