@@ -52,8 +52,8 @@ feeds:
         name:
           bg: orange
           fg: white
-     Coinbase:
-      url: https://blog.coinbase.com/feed
+     Bitcoinmagazine:
+      url: https://bitcoinmagazine.com/.rss/full/
       period: 0.2
       style:
          name:
