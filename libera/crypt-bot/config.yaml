@@ -10,28 +10,28 @@ defaults:
   shorten: false
 feeds:
   '#crypto-feed': &CryptoFeeds
-     Ambcrypto:
+     AmbCrypto:
       url: https://ambcrypto.com/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     BitflyerEurope:
+     BitflyerEu:
       url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Bitcoin News:
+     Bitcoin.com:
       url:  https://news.bitcoin.com/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Beincrypto:
+     BeInCrypto:
       url: https://beincrypto.com/feed
       period: 0.2
       style:
@@ -52,28 +52,28 @@ feeds:
         name:
           bg: orange
           fg: white
-     Bitcoinmagazine:
+     BitcoinMag:
       url: https://bitcoinmagazine.com/.rss/full/
       period: 0.2
       style:
          name:
           bg: blue
           fg: white
-     Cryptodaily:
+     CryptoDailyUK:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: grey
-     Cryptomining:
+     CryptoMining:
       url: http://cryptomining-blog.com/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Cryptoslate:
+     CryptoSlate:
       url: https://cryptoslate.com/feed
       period: 0.2
       style:
@@ -87,7 +87,7 @@ feeds:
          name:
           bg: orange
           fg: white
-     Dailyhodl:
+     DailyHodl:
       url: https://dailyhodl.com/feed
       period: 0.2
       style:
@@ -108,7 +108,7 @@ feeds:
         name:
           bg: orange
           fg: white
-     Newsbtc:
+     NewsBTC:
       url: https://www.newsbtc.com/feed
       period: 0.2
       style:
@@ -150,7 +150,7 @@ feeds:
         name:
           bg: orange
           fg: white
-     Zycrypto:
+     ZyCrypto:
       url: https://zycrypto.com/feed
       period: 0.2
       style:
