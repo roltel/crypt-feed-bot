@@ -17,6 +17,28 @@ feeds:
         name:
           bg: orange
           fg: white
+    ArXiv:  # If this feed name is updated, also update it for #us-market-news
+      period: 1.1
+      https: true
+      shorten: false
+      alerts:
+        empty: false
+        read: false
+      url:
+        - http://export.arxiv.org/rss/q-fin
+        - http://export.arxiv.org/rss/cs
+        - http://export.arxiv.org/rss/stat
+        - http://export.arxiv.org/rss/econ
+      whitelist:
+        explain: true
+        title:
+        - \b(?i:blockchain|cryptocurren|decentralized\ (?:application|exchange|financ)|digital\ currenc|smart\ contract|stablecoin)
+        - \b(?i:binance|bitcoin|chainlink|defi|dogecoin|ethereum|monero|nakamoto|off\-chain|satoshi|solidity|taproot|zcash)\b
+        - \bCBDC
+      style:
+        name:
+          bg: purple
+          fg: white
     BitflyerEu:  # If this feed name is updated, also update it for #us-market-news
       url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
@@ -182,6 +204,9 @@ feeds:
           fg: white
   '#us-market-news':
     <<: *CryptoFeeds
+    ArXiv:
+      url: https://placeholder.com/rss
+      period: 9876543  # This high period effectively disables the feed in the channel.
     BitflyerEu:
-      url: https://blog-eu.bitflyer.com/rss/
+      url: https://placeholder.com/rss
       period: 9876543  # This high period effectively disables the feed in the channel.
