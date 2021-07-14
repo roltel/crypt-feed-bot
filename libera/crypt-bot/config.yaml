@@ -160,14 +160,14 @@ feeds:
  '#macanudos':
     futuragora:
       url: https://futuragora.pt/feed
-      period: 1
+      period: 3
       style:
         name:
           bg: red
           fg: white
     macanudos:
       url: https://macanudos.org/feed
-      period: 0.2
+      period: 3
       style:
         name:
           bg: white
@@ -175,7 +175,7 @@ feeds:
  '#monero-pt':
     pt-Cryptofcafe:
       url: https://www.cryptocafe.pt/feed/podcast
-      period: 0.2
+      period: 3
       style:
         name:
           bg: orange
