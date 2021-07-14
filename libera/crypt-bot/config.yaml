@@ -10,147 +10,147 @@ defaults:
   shorten: false
 feeds:
   '#crypto-feed': &CryptoFeeds
-     AmbCrypto:
+    AmbCrypto:
       url: https://ambcrypto.com/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     BitflyerEu:  # If this feed name is updated, also update it for #us-market-news
+    BitflyerEu:  # If this feed name is updated, also update it for #us-market-news
       url: https://blog-eu.bitflyer.com/rss/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Bitcoin.com:
+    Bitcoin.com:
       url:  https://news.bitcoin.com/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     BeInCrypto:
+    BeInCrypto:
       url: https://beincrypto.com/feed
       period: 0.2
       style:
          name:
           bg: orange
           fg: white
-     Cointelegraph:
+    Cointelegraph:
       url: https://cointelegraph.com/rss
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Cryptoninjas:
+    Cryptoninjas:
       url: https://www.cryptoninjas.net/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     BitcoinMag:
+    BitcoinMag:
       url: https://bitcoinmagazine.com/.rss/full/
       period: 0.2
       style:
          name:
           bg: blue
           fg: white
-     CryptoDailyUK:
+    CryptoDailyUK:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: grey
-     CryptoMining:
+    CryptoMining:
       url: http://cryptomining-blog.com/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     CryptoSlate:
+    CryptoSlate:
       url: https://cryptoslate.com/feed
       period: 0.2
       style:
         name:
           bg: black
           fg: green
-     Decrypt:
+    Decrypt:
       url: https://decrypt.co/feed
       period: 0.2
       style:
          name:
           bg: orange
           fg: white
-     DailyHodl:
+    DailyHodl:
       url: https://dailyhodl.com/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     eToro:
+    eToro:
       url: https://www.etoro.com/blog/feed/
       period: 0.2
       style:
          name:
           bg: blue
           fg: white
-     FinanceMagnates:
+    FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     NewsBTC:
+    NewsBTC:
       url: https://www.newsbtc.com/feed
       period: 0.2
       style:
         name:
           bg: orange
           fg: gwhite
-     TheCapital:
+    TheCapital:
       url: https://thecapital.io/assets/feed/news.xml
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     TheMarketsCompass:
+    TheMarketsCompass:
       url: https://themarketscompass.substack.com/feed
       period: 0.2
       style:
          name:
           bg: orange
           fg: white
-     TheMoon:
+    TheMoon:
       url: https://medium.com/feed/the-moon
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     TheBullish:
+    TheBullish:
       url: https://medium.com/feed/the-bullish
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     Unchained:
+    Unchained:
       url: https://unchainedpodcast.com/category/unconfirmed/feed/
       period: 0.2
       style:
         name:
           bg: orange
           fg: white
-     ZyCrypto:
+    ZyCrypto:
       url: https://zycrypto.com/feed
       period: 0.2
       style:
