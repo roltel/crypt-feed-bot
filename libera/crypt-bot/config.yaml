@@ -9,7 +9,7 @@ mode: +igR
 defaults:
   shorten: false
 feeds:
- '#crypto-feed':
+  '#crypto-feed':
      Ambcrypto:
       url: https://ambcrypto.com/feed
       period: 0.2
@@ -58,7 +58,7 @@ feeds:
       style:
          name:
           bg: blue
-          fg: white    
+          fg: white
      Cryptodaily:
       url: https://cryptodaily.co.uk/feed
       period: 0.2
@@ -86,7 +86,7 @@ feeds:
       style:
          name:
           bg: orange
-          fg: white 
+          fg: white
      Dailyhodl:
       url: https://dailyhodl.com/feed
       period: 0.2
@@ -114,7 +114,7 @@ feeds:
       style:
         name:
           bg: orange
-          fg: gwhite    
+          fg: gwhite
      TheCapital:
       url: https://thecapital.io/assets/feed/news.xml
       period: 0.2
@@ -128,7 +128,7 @@ feeds:
       style:
          name:
           bg: orange
-          fg: white   
+          fg: white
      TheMoon:
       url: https://medium.com/feed/the-moon
       period: 0.2
@@ -157,7 +157,7 @@ feeds:
         name:
           bg: black
           fg: green
- '#macanudos':
+  '#macanudos':
     futuragora:
       url: https://futuragora.pt/feed
       period: 3
@@ -172,7 +172,7 @@ feeds:
         name:
           bg: white
           fg: orange
- '#monero-pt':
+  '#monero-pt':
     pt-Cryptofcafe:
       url: https://www.cryptocafe.pt/feed/podcast
       period: 3
