@@ -213,7 +213,7 @@ feeds:
     <<: *CryptoFeeds
     ArXiv:
       url: https://placeholder.com/rss
-      period: 9876543  # This high period effectively disables the feed in the channel.
+      period: 987654  # This high period effectively disables the feed in the channel.
     BitflyerEu:
       url: https://placeholder.com/rss
-      period: 9876543  # This high period effectively disables the feed in the channel.
+      period: 987654  # This high period effectively disables the feed in the channel.
