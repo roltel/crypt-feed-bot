@@ -123,13 +123,6 @@ feeds:
         name:
           bg: orange
           fg: white
-    eToro:
-      url: https://www.etoro.com/blog/feed/
-      period: 0.2
-      style:
-         name:
-          bg: blue
-          fg: white
     FinanceMagnates:
       url: https://www.financemagnates.com/cryptocurrency/feed/
       period: 0.2
