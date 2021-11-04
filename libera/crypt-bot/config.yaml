@@ -138,8 +138,8 @@ feeds:
           bg: orange
           fg: white
     TheCapital:
-      url: https://thecapital.io/assets/feed/news.xml
-      period: 0.2
+      url: https://medium.com/feed/the-capital
+      period: 1
       style:
         name:
           bg: orange
@@ -153,14 +153,16 @@ feeds:
           fg: white
     TheMoon:
       url: https://medium.com/feed/the-moon
-      period: 0.2
+      period: 4
+      alerts:
+        empty: false
       style:
         name:
           bg: orange
           fg: white
     TheBullish:
       url: https://medium.com/feed/the-bullish
-      period: 0.2
+      period: 1
       style:
         name:
           bg: orange
