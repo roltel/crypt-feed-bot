@@ -60,6 +60,13 @@ feeds:
          name:
           bg: orange
           fg: white
+    CoinDesk:
+      url: https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml
+      period: 0.2
+      style:
+        name:
+          bg: orange
+          fg: white
     CoinQuora:
       url: https://coinquora.com/news/feed/
       period: 0.2
